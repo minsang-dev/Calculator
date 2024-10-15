@@ -47,7 +47,6 @@ public class App {
     private static void inputCalculate() {
         Scanner sc = new Scanner(System.in);
         int num1, num2;
-        int result = 0;
 
         try {
             System.out.print("첫 번째 숫자를 입력하세요: ");
